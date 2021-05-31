@@ -26,14 +26,27 @@ function Home() {
         leftBtnText='Custom Order'
         RightBtnText='Existing Inventory'
       />
-          <Section
+      <Section
         title='Model X'
         description='Order Online for Touchless Delivery'
         backgroundImg='model-x.jpg'
         leftBtnText='Custom Order'
         RightBtnText='Existing Inventory'
       />
-     
+      <Section
+        title='Lowest Cost Solar Panels in America'
+        description='Money-back guaratee'
+        backgroundImg='solar-panel.jpg'
+        leftBtnText='Order Now'
+        RightBtnText='Learn More'
+      />
+      <Section
+        title='Accessories'
+        description=''
+        backgroundImg='accessories.jpg'
+        leftBtnText='shop now'
+        RightBtnText=''
+      />
     </Container>
   );
 }

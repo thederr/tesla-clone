@@ -27,3 +27,15 @@ overflow-x:hidden;
     transform: translateY(3px);
   }
 }
+
+/* Styling the links for the menu */
+a{
+  text-decoration: none;
+}
+
+p {
+  font-weight:600;
+  text-transform: uppercase;
+  padding: 0 10px;
+  flex-wrap:nowrap;
+}
